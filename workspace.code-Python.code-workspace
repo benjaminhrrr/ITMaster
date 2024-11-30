@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.autoSave": "afterDelay",
+    "python.autoComplete.extraPaths": ["./src", "./recursos"],
+    "python.analysis.extraPaths": ["./src", "./recursos"],
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": null
+  }
+}
